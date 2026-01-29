@@ -13,9 +13,7 @@
   - **Requests** - API calls
 
 
-
-![1](streamlit-health-related-sdg-dashboard\1.png)
-
+![alt text](streamlit-health-related-sdg-dashboard/1.png)
 
 
 ## Python Plotly - Remote Work & Mental Health (EDA)
@@ -27,17 +25,11 @@
 * Notebook in Google Colaboratory (PySpark): [Link](https://colab.research.google.com/drive/1b3Mpo7T6vpzSbbzsrxGdbA41PeelFRzX?usp=sharing)
 
 
+![alt text](python-plotly_remote-work-mental-health-eda/1.png)
 
-![1](python-plotly_remote-work-&-mental-health-eda\1.png)
+![alt text](python-plotly_remote-work-mental-health-eda/2.png)
 
-
-
-![1](python-plotly_remote-work-&-mental-health-eda\2.png)
-
-
-
-![1](python-plotly_remote-work-&-mental-health-eda\3.png)
-
+![alt text](python-plotly_remote-work-mental-health-eda/3.png)
 
 
 ## Tableau - Staple Food Crops of the World (2000 - 2021)
